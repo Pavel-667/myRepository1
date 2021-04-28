@@ -1,0 +1,14 @@
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\MyWork2.exe.config
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\MyWork2.exe
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\MyWork2.pdb
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.csprojAssemblyReference.cache
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.Form1.resources
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.Properties.Resources.resources
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.GenerateResource.cache
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.exe
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.pdb
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\EntityFramework.dll
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.dll
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\EntityFramework.xml
+D:\IS1-23\MyWork2\MyWork2\bin\Debug\EntityFramework.SqlServer.xml
+D:\IS1-23\MyWork2\MyWork2\obj\Debug\MyWork2.csproj.CopyComplete

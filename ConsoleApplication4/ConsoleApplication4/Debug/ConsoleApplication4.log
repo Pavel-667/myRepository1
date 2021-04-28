@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+D:\IS1-23\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\IS1-23\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(6): fatal error C1075: '{': no matching token found

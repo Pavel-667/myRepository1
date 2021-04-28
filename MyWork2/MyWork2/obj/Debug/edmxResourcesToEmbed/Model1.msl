@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="user94_dbModelStoreContainer" CdmEntityContainer="user94_dbEntities">
+    <EntitySetMapping Name="Priyt">
+      <EntityTypeMapping TypeName="user94_dbModel.Priyt">
+        <MappingFragment StoreEntitySet="Priyt">
+          <ScalarProperty Name="ID_PET" ColumnName="ID_PET" />
+          <ScalarProperty Name="Klichka" ColumnName="Klichka" />
+          <ScalarProperty Name="Paroda" ColumnName="Paroda" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Ves" ColumnName="Ves" />
+          <ScalarProperty Name="Rost" ColumnName="Rost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
